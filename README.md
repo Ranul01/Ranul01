@@ -36,4 +36,4 @@
 
 | ![Ranul's github stats](https://github-readme-stats.vercel.app/api?username=Ranul01&show_icons=true&theme=tokyonight) | ![Ranul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranul01&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranul01&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ranul01&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
