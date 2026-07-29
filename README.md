@@ -10,9 +10,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a **Student**
-
-- 🌱 I’m currently learning **React Native, MERN**
+- 🔭 I’m graduated form **SLIIT**
 
 - 📫 How to reach me **ranulthilakarathnaw@gmail.com**
 
